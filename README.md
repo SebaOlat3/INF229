@@ -18,3 +18,7 @@ Entrega del proyecto: 8 de diciembre 2023
 Informe describiendo el diseño del software (diagramas) y las principales buenas prácticas implementadas por el equipo para mejorar la calidad del software.
 Repositorio GitHub 
 Instrucciones para desplegar y utilizar el software
+
+Integrantes: - Fabián Ruiz
+             - Sebastián Vásquez
+             - Katherine Zapata
