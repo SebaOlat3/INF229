@@ -22,3 +22,17 @@ Instrucciones para desplegar y utilizar el software
 Integrantes: - Fabián Ruiz
              - Sebastián Vásquez
              - Katherine Zapata
+
+# Instrucciones
+Para ejecutar el programa debe tener instalado:
+- Python
+- Tkinter (Libreria de Python)
+	se instala con: sudo apt-get install python3-tk
+- Pillow (Libreria de Python)
+	se instala con: pip install pillow
+si este ultimo le da error intente con sudo apt-get install python3-pil.imagetk
+
+Para jugar debe:
+
+- Ejecutar el main.py
+- Una vez dentro podra iniciar un juego, ver el top 10 o salir.
