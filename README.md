@@ -27,9 +27,9 @@ Integrantes: - Fabián Ruiz
 Para ejecutar el programa debe tener instalado:
 - Python
 - Tkinter (Libreria de Python)
-	se instala con: sudo apt-get install python3-tk
+se instala con: sudo apt-get install python3-tk
 - Pillow (Libreria de Python)
-	se instala con: pip install pillow
+se instala con: pip install pillow <br>
 si este ultimo le da error intente con sudo apt-get install python3-pil.imagetk
 
 Para jugar debe:
